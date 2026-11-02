@@ -18,6 +18,7 @@
   <a href="https://github.com/alexleonec6">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=alexleonec6&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20Oportunidades-2ea44f?style=for-the-badge" alt="Available"/>
 </p>
 
@@ -25,11 +26,11 @@
 
 ### 👨‍💻 Sobre Mim
 
-Olá! Sou o **Alexandre Souza**, desenvolvedor Full Stack com foco em arquiteturas modernas, APIs performáticas e integração com Inteligência Artificial:
+Olá! Sou o **Alexandre Souza**, desenvolvedor Full Stack com atuação prática em projetos corporativos e foco em código limpo, arquitetura escalável e integração com Inteligência Artificial:
 
 - 🎓 Cursando **Bacharelado em Ciência da Computação** na Faculdade Impacta (Previsão: 06/2028).
-- 💼 Atualmente atuando como **Estagiário Desenvolvedor Full Stack**, com foco na evolução de funcionalidades reais com **React**, **TypeScript**, **NestJS** e **APIs REST**.
-- 🛠️ Experiência em todo o fluxo técnico: telas, componentes, validações, endpoints, serviços, regras de negócio e banco de dados.
+- 💼 Atualmente atuando como **Estagiário Desenvolvedor Full Stack**, desenvolvendo e mantendo aplicações com **React**, **TypeScript**, **NestJS** e **APIs REST**.
+- 🛠️ Experiência em todo o ciclo técnico: criação e ajuste de componentes, validações, fluxos de frontend, construção de endpoints, serviços e integração com banco de dados.
 - 🤖 Automação e Inteligência Artificial: criação de fluxos no **n8n**, chatbots contextuais com LLMs e **RAG Local** (LangChain, FAISS, Ollama).
 - 🌐 **Idiomas:** Português (Nativo) · Inglês (Avançado) · Espanhol (Avançado).
 - 📍 **Localização:** São Paulo - SP, Brasil.
@@ -47,10 +48,10 @@ Olá! Sou o **Alexandre Souza**, desenvolvedor Full Stack com foco em arquitetur
 | Categoria | Tecnologias & Ferramentas |
 | :--- | :--- |
 | **Frontend** | React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
-| **Backend & APIs** | NestJS, Node.js, APIs RESTful, JSON, Validações e Regras de Negócio |
+| **Backend & APIs** | NestJS, Node.js, APIs RESTful, JSON, Regras de Negócio e Endpoints |
 | **Bancos de Dados** | SQL, PostgreSQL, Integração e Modelagem |
 | **IA & Automação** | n8n, LangChain, FAISS, Ollama, RAG Local, Chatbots Generativos |
-| **Qualidade & DevOps** | Git, GitHub, VS Code, Postman, Testes com Jest |
+| **Qualidade & DevOps** | Git, GitHub, VS Code, Postman, Testes Unitários com Jest |
 
 ---
 
@@ -64,19 +65,6 @@ Olá! Sou o **Alexandre Souza**, desenvolvedor Full Stack com foco em arquitetur
 | 🧠 **Mini-lum.IA** | Assistente RAG Local para consulta inteligente e contextualizada sobre documentos locais, com privacidade total. | `Python` `LangChain` `FAISS` `Ollama` `Streamlit` | [Ver Repositório](https://github.com/alexleonec6/Mini_lum.IA-sbk) |
 | ⚡ **Automações com IA** | Chatbot inteligente e fluxos automatizados integrando IA Generativa, mensageria (Telegram) e APIs de serviços. | `n8n` `Python` `Telegram API` `Generative AI` | [Ver Repositório](https://github.com/alexleonec6/Automacoes-com-IA) |
 
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexleonec6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexleonec6&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexleonec6&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
