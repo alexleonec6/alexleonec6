@@ -22,6 +22,11 @@
   <img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20Oportunidades-2ea44f?style=for-the-badge" alt="Available"/>
 </p>
 
+<!-- Retro Game Section -->
+<p align="center">
+  <img src="assets/space-shooter.gif" width="100%" alt="GitHub Space Shooter" />
+</p>
+
 ---
 
 ### 👨‍💻 Sobre Mim
@@ -66,6 +71,30 @@ Olá! Sou o **Alexandre Souza**, desenvolvedor Full Stack com atuação prática
 | ⚡ **Automações com IA** | Chatbot inteligente e fluxos automatizados integrando IA Generativa, mensageria (Telegram) e APIs de serviços. | `n8n` `Python` `Telegram API` `Generative AI` | [Ver Repositório](https://github.com/alexleonec6/Automacoes-com-IA) |
 
 </div>
+
+---
+
+### 📊 Estatísticas & Gráficos
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alexleonec6&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=alexleonec6&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=alexleonec6&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<!-- Pac-Man Contribution Graph -->
+<h3 align="center">🕹️ Pac-Man Contribution Graph</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="assets/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</p>
 
 ---
 
