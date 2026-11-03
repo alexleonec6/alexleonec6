@@ -34,7 +34,7 @@
 Olá! Sou o **Alexandre Souza**, desenvolvedor Full Stack com atuação prática em projetos corporativos e foco em código limpo, arquitetura escalável e integração com Inteligência Artificial:
 
 - 🎓 Cursando **Bacharelado em Ciência da Computação** na Faculdade Impacta (Previsão: 06/2028).
-- 💼 Atualmente atuando como **Estagiário Desenvolvedor Full Stack**, desenvolvendo e mantendo aplicações com **React**, **TypeScript**, **NestJS** e **APIs REST**.
+- 💼 Atuei como **Estagiário Desenvolvedor Full Stack**, desenvolvendo e mantendo aplicações com **React**, **TypeScript**, **NestJS** e **APIs REST**.
 - 🛠️ Experiência em todo o ciclo técnico: criação e ajuste de componentes, validações, fluxos de frontend, construção de endpoints, serviços e integração com banco de dados.
 - 🤖 Automação e Inteligência Artificial: criação de fluxos no **n8n**, chatbots contextuais com LLMs e **RAG Local** (LangChain, FAISS, Ollama).
 - 🌐 **Idiomas:** Português (Nativo) · Inglês (Avançado) · Espanhol (Avançado).
