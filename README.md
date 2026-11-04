@@ -45,7 +45,7 @@ Olá! Sou o **Alexandre Souza**, desenvolvedor Full Stack com atuação prática
 ### 🛠️ Tecnologias & Habilidades
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nextjs,nest,nodejs,python,postgres,git,github,vscode,postman,jest" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nextjs,nest,nodejs,python,cs,dotnet,postgres,git,github,vscode,postman,jest" alt="Tech Stack" />
 </div>
 
 <br/>
@@ -53,7 +53,7 @@ Olá! Sou o **Alexandre Souza**, desenvolvedor Full Stack com atuação prática
 | Categoria | Tecnologias & Ferramentas |
 | :--- | :--- |
 | **Frontend** | React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
-| **Backend & APIs** | NestJS, Node.js, APIs RESTful, JSON, Regras de Negócio e Endpoints |
+| **Backend & APIs** | NestJS, Node.js, C#, .NET, APIs RESTful, JSON, Regras de Negócio e Endpoints |
 | **Bancos de Dados** | SQL, PostgreSQL, Integração e Modelagem |
 | **IA & Automação** | n8n, LangChain, FAISS, Ollama, RAG Local, Chatbots Generativos |
 | **Qualidade & DevOps** | Git, GitHub, VS Code, Postman, Testes Unitários com Jest |
